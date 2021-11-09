@@ -1,0 +1,121 @@
+div#tournoi{
+    background-color: white;
+    background-image: url(fond8.jpg);
+    width: 1920px;
+    height: 3600px;
+    color: white;
+}
+
+div#titretournoi{
+    background-color: #1e3d59;
+    text-align: center;
+}
+
+div#openaustralie{
+    text-align: left;
+    width: 700px;
+    margin-top: 20px;
+    border-top: 1px solid #000;
+}
+
+div#rolandgarros{
+    text-align: left;
+    width: 700px;
+    margin-top: 20px;
+    border-top: 1px solid #000;
+}
+
+div#Wimbledon{
+    text-align: left;
+    width: 700px;
+    margin-top: 20px;
+    border-top: 1px solid #000;
+}
+
+div#usopen{
+    text-align: left;
+    width: 700px;
+    margin-top: 20px;
+    border-top: 1px solid #000;
+}
+
+div#grandchelem{
+    text-align: left;
+    width: 700px;
+    margin-top: 20px;
+    border-top: 1px solid #000;
+}
+
+div#Montecarlo{
+    text-align: left;
+    width: 700px;
+    margin-top: 20px;
+    border-top: 1px solid #000;
+}
+
+div#coupedavis{
+    text-align: left;
+    width: 700px;
+    margin-top: 20px;
+    border-top: 1px solid #000;
+}
+
+div#Mastersbercy{
+    text-align: left;
+    width: 700px;
+    margin-top: 130px;
+    border-top: 1px solid #000;
+}
+
+div#lienpages{
+    text-align: center;
+    color: white;
+}
+
+div#image{
+    text-align: center;
+    margin-left: 1000px;
+    margin-top: -400px;
+}
+
+div#image2{
+    text-align: center;
+    margin-left: 1000px;
+    margin-top: -200px;
+}
+
+div#image3{
+    text-align: center;
+    margin-left: 1000px;
+    margin-top: -200px;
+}
+
+div#image4{
+    text-align: center;
+    margin-left: 1000px;
+    margin-top: -200px;
+}
+
+div#image5{
+    text-align: center;
+    margin-left: 1000px;
+    margin-top: -200px;
+}
+
+div#image6{
+    text-align: center;
+    margin-left: 1000px;
+    margin-top: -200px;
+}
+
+div#image7{
+    text-align: center;
+    margin-left: 1000px;
+    margin-top: -200px;
+}
+
+div#image8{
+    text-align: center;
+    margin-left: 1000px;
+    margin-top: -100px;
+}

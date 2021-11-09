@@ -1,0 +1,20 @@
+div#classement{
+    background-color: white;
+    background-image: url(fond9.jpg);
+    width: 1920px;
+    height: 1080px;
+    color: white;
+}
+
+div#titreclassement{
+    background-color: #1e3d59;
+    text-align: center;
+}
+
+td{
+    border: 1px solid white;
+}
+
+div#lienpages{
+    text-align: center;
+}

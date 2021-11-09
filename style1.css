@@ -1,0 +1,47 @@
+div#accueil{
+    color: black;
+    background-color:  white;
+    width: 2000px;
+    height: 1000px;
+    background-image: url(fond.jpg)
+
+}
+
+div#menu{
+    text-align: center;
+    background-color: #1e3d59;
+   
+}
+
+div#lienpages{
+    text-align: center;
+    border-top: 1px solid #000;
+    width : 2000px;
+    word-spacing: 4px;
+
+}
+
+
+div#image{
+    text-align:center;
+    margin-right: 950px;
+    margin-top: 150px;
+    max-width: 700px;
+    max-height: 700px;
+}
+
+div#imageterrain{
+    text-align:center;
+    margin-left: 950px;
+    margin-top: -300px;
+}
+
+div#texte{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+div#video{
+    text-align: center;
+    left: -100px;
+    display: block;
+}

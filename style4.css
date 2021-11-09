@@ -1,0 +1,55 @@
+div#histoire{
+    background-color: #ff6e40;
+    width: 2000px;
+    height: 1450px;
+    background-image: url(fond3.jpg);
+    color: white;
+}
+
+div#titrehistoire{
+    text-align: center;
+    background-color: #1e3d59;
+}
+
+div#unpeudhistoire{
+    text-align: left;
+    width: 700px;
+    margin-top: 20px;
+    border-top: 1px solid #000;
+}
+
+div#image{
+    text-align: center;
+    margin-left: 550px;
+    margin-top: -450px;
+}
+
+div#premierchampion{
+    text-align: left;
+    width: 700px;
+    margin-top: 300px;
+    border-top: 1px solid #000;
+}
+
+div#image2{
+    text-align: center;
+    margin-left: 550px;
+    margin-top: -500px;
+}
+
+div#image3{
+    text-align: center;
+    margin-left: 550px;
+    margin-top: 100px;
+}
+
+div#lereOpen{
+    text-align: left;
+    width: 700px;
+    margin-top: 100px;
+    border-top: 1px solid #000;
+}
+
+div#lienpages{
+    text-align: center;
+}

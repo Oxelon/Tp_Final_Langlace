@@ -1,0 +1,15 @@
+div#contact{
+    color: black;
+    background-color:  white;
+    width: 2000px;
+    height: 1000px;
+    background-image: url(fond.jpg)
+}
+
+div#form{
+    text-align: center;
+}
+
+div#lienpages{
+    text-align: center;
+}

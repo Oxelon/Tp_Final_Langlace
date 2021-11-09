@@ -1,0 +1,109 @@
+div#terrainetmateriels{
+    background-color: #ff6e40;
+    width: 2000px;
+    height: 3400px;
+    color: white;
+    background-image: url(fond.jpg);
+}
+
+div#titre{
+    background-color: #1e3d59;
+    text-align: center;
+}
+
+div#leterrain{
+    text-align: right;
+    width: 700px;
+    margin-top: 20px;
+    border-top: 1px solid #000;
+}
+
+div#image{
+    text-align: center;
+    margin-left: 1000px;
+    margin-top: -300px;
+
+}
+
+div#image2{
+    text-align: center;
+    margin-left: 200px;
+    margin-top: -300px;
+
+}
+
+div#titrefilet{
+    text-align: left;
+    width: 700px;
+    margin-top: 100px;
+    border-top: 1px solid #000;
+}
+
+
+div#image3{
+    text-align: center;
+    margin-left: 200px;
+    margin-top: -300px;
+}
+
+div#lienpages{
+    text-align: center;
+}
+
+div#laraquette{
+    text-align: left;
+    width: 700px;
+    margin-top: 100px;
+    border-top: 1px solid #000;
+}
+
+div#image4{
+    text-align: center;
+    margin-left: 900px;
+    margin-top: -600px;
+}
+
+div#image5{
+    text-align: center;
+    margin-left: 200px;
+    margin-top: 0px;
+}
+
+div#laballe{
+    text-align: left;
+    width: 700px;
+    margin-top: 100px;
+    border-top: 1px solid #000;
+}
+
+div#image6{
+    text-align: center;
+    margin-left: 200px;
+    margin-top: -550px;
+}
+
+div#cordage{
+    text-align: left;
+    width: 700px;
+    margin-top: 100px;
+    border-top: 1px solid #000;
+}
+
+div#image7{
+    text-align: center;
+    margin-left: 200px;
+    margin-top: -250px;
+}
+
+div#latenue{
+    text-align: left;
+    width: 700px;
+    margin-top: 100px;
+    border-top: 1px solid #000;
+}
+
+div#image8{
+    text-align: center;
+    margin-left: 200px;
+    margin-top: -300px;
+}

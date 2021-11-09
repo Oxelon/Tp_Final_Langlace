@@ -1,0 +1,49 @@
+div#lesregles{
+    background-color: #ff6e40;
+    width: 2000px;
+    height: 1800px;
+    color: white;
+    background-image: url(fond4.jpg);
+}
+
+div#titreregle{
+    text-align: center;
+    background-color: #1e3d59;
+}
+
+div#reglesdebases{
+    text-align: left;
+    width: 800px;
+    margin-top: 20px;
+    border-top: 1px solid #000;
+}
+
+div#image{
+    text-align: center;
+    margin-left: 550px;
+    margin-top: -800px;
+}
+
+
+div#lesfautes{
+    text-align: left;
+    width: 800px;
+    margin-top: 500px;
+    border-top: 1px solid #000;
+}
+
+div#image2{
+    text-align: center;
+    margin-left: 550px;
+    margin-top: -400px;
+}
+
+div#lienpages{
+    text-align: center;
+}
+
+div#image3{
+    text-align: center;
+    margin-left: 550px;
+    margin-top: -750px;
+}
